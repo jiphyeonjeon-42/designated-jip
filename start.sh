@@ -3,6 +3,7 @@
 # backend
 cd backend
 pnpm install
+pnpm approve-builds
 pnpm build
 pm2 start "pnpm start" --name "backend-service"
 
