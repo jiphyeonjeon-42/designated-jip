@@ -7,7 +7,7 @@
 이 저장소를 서브모듈과 함께 클론하려면 다음 명령어를 사용하세요:
 
 ```bash
-git clone --recurse-submodules https://github.com/your-username/designated-jip.git
+git clone --recurse-submodules https://github.com/jiphyeonjeon-42/designated-jip
 cd designated-jip
 ```
 
